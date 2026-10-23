@@ -35,5 +35,11 @@ h2 {
 }
 
 a:link {
+        color: green;
+}
 
+a:hover,
+a:focus {
+        color: darkgreen;
+        text-decoration: none;
 }
