@@ -59,3 +59,22 @@ h2 {
 .starting-para {
     text-indent: 2rem;
 }
+
+a:link,
+a:visited{
+    color:  #aa6666;
+}
+
+a:focus,
+a:hover{
+    color: #631010;
+}
+
+a:focus {
+    outline: none;
+}
+
+a[href^="http"]{
+    padding-right: 16px;
+    background-image: url(external-link-52.png);
+}
