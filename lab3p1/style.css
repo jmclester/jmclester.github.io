@@ -19,6 +19,21 @@ ul {
 }
 
 h1 {
+    font-size: 2rem;
     color: darkslategray;
+    border: 10px dotted purple;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.job-title {
+            color: darkslategray;
+            font-weight: bold;
+}
+
+a:link {
 
 }
