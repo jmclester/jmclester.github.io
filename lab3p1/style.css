@@ -23,7 +23,7 @@ ul {
 h1 {
     font-size: 2rem;
     color: darkslategray;
-    border: 10px dotted purple;
+    border-bottom: 10px dotted purple;
 }
 
 h2 {
