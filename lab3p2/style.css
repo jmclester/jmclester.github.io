@@ -76,5 +76,27 @@ a:focus {
 
 a[href^="http"]{
     padding-right: 16px;
-    background-image: url(external-link-52.png);
+    background: url(external-link-52.png)  center right no-repeat;
+    background-size: 15px 15px;
+}
+
+p,
+li {
+    line-height: 1.5;
+    margin: 0 auto;
+}
+
+ul,
+ol {
+    margin: 0 auto;
+    line-height: 1.5;
+    list-style-type: circle;
+}
+
+
+nav a {
+    padding-left: 0;
+    display: block;
+    width: 100%;
+    
 }
